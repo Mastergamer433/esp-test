@@ -1,0 +1,21 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "/nix/store/li7ixzvasab190cj5dywrbab9dlp4zk2-esp-idf-v4.4.1/components/bootloader/subproject",
+    "build_dir":          "/home/mg433/Projects/MG433/C/Arduino/build/bootloader",
+    "config_file":        "/home/mg433/Projects/MG433/C/Arduino/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "HEAD-HASH-NOTFOUND",
+    "target":             "esp32",
+    "rev":                "0",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "xtensa-esp32-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "/nix/store/li7ixzvasab190cj5dywrbab9dlp4zk2-esp-idf-v4.4.1/components/efuse/Kconfig;/nix/store/li7ixzvasab190cj5dywrbab9dlp4zk2-esp-idf-v4.4.1/components/esp32/Kconfig;/nix/store/li7ixzvasab190cj5dywrbab9dlp4zk2-esp-idf-v4.4.1/components/esp_common/Kconfig;/nix/store/li7ixzvasab190cj5dywrbab9dlp4zk2-esp-idf-v4.4.1/components/esp_hw_support/Kconfig;/nix/store/li7ixzvasab190cj5dywrbab9dlp4zk2-esp-idf-v4.4.1/components/esp_system/Kconfig;/nix/store/li7ixzvasab190cj5dywrbab9dlp4zk2-esp-idf-v4.4.1/components/freertos/Kconfig;/nix/store/li7ixzvasab190cj5dywrbab9dlp4zk2-esp-idf-v4.4.1/components/hal/Kconfig;/nix/store/li7ixzvasab190cj5dywrbab9dlp4zk2-esp-idf-v4.4.1/components/log/Kconfig;/nix/store/li7ixzvasab190cj5dywrbab9dlp4zk2-esp-idf-v4.4.1/components/newlib/Kconfig;/nix/store/li7ixzvasab190cj5dywrbab9dlp4zk2-esp-idf-v4.4.1/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "/nix/store/li7ixzvasab190cj5dywrbab9dlp4zk2-esp-idf-v4.4.1/components/bootloader/Kconfig.projbuild;/nix/store/li7ixzvasab190cj5dywrbab9dlp4zk2-esp-idf-v4.4.1/components/esp_rom/Kconfig.projbuild;/nix/store/li7ixzvasab190cj5dywrbab9dlp4zk2-esp-idf-v4.4.1/components/esptool_py/Kconfig.projbuild;/nix/store/li7ixzvasab190cj5dywrbab9dlp4zk2-esp-idf-v4.4.1/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32", "esp_common", "esp_hw_support", "esp_rom", "esp_system", "esptool_py", "freertos", "hal", "log", "main", "micro-ecc", "newlib", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "/nix/store/li7ixzvasab190cj5dywrbab9dlp4zk2-esp-idf-v4.4.1/components/bootloader", "/nix/store/li7ixzvasab190cj5dywrbab9dlp4zk2-esp-idf-v4.4.1/components/bootloader_support", "/nix/store/li7ixzvasab190cj5dywrbab9dlp4zk2-esp-idf-v4.4.1/components/efuse", "/nix/store/li7ixzvasab190cj5dywrbab9dlp4zk2-esp-idf-v4.4.1/components/esp32", "/nix/store/li7ixzvasab190cj5dywrbab9dlp4zk2-esp-idf-v4.4.1/components/esp_common", "/nix/store/li7ixzvasab190cj5dywrbab9dlp4zk2-esp-idf-v4.4.1/components/esp_hw_support", "/nix/store/li7ixzvasab190cj5dywrbab9dlp4zk2-esp-idf-v4.4.1/components/esp_rom", "/nix/store/li7ixzvasab190cj5dywrbab9dlp4zk2-esp-idf-v4.4.1/components/esp_system", "/nix/store/li7ixzvasab190cj5dywrbab9dlp4zk2-esp-idf-v4.4.1/components/esptool_py", "/nix/store/li7ixzvasab190cj5dywrbab9dlp4zk2-esp-idf-v4.4.1/components/freertos", "/nix/store/li7ixzvasab190cj5dywrbab9dlp4zk2-esp-idf-v4.4.1/components/hal", "/nix/store/li7ixzvasab190cj5dywrbab9dlp4zk2-esp-idf-v4.4.1/components/log", "/nix/store/li7ixzvasab190cj5dywrbab9dlp4zk2-esp-idf-v4.4.1/components/bootloader/subproject/main", "/nix/store/li7ixzvasab190cj5dywrbab9dlp4zk2-esp-idf-v4.4.1/components/bootloader/subproject/components/micro-ecc", "/nix/store/li7ixzvasab190cj5dywrbab9dlp4zk2-esp-idf-v4.4.1/components/newlib", "/nix/store/li7ixzvasab190cj5dywrbab9dlp4zk2-esp-idf-v4.4.1/components/partition_table", "/nix/store/li7ixzvasab190cj5dywrbab9dlp4zk2-esp-idf-v4.4.1/components/soc", "/nix/store/li7ixzvasab190cj5dywrbab9dlp4zk2-esp-idf-v4.4.1/components/spi_flash", "/nix/store/li7ixzvasab190cj5dywrbab9dlp4zk2-esp-idf-v4.4.1/components/xtensa", "" ]
+}

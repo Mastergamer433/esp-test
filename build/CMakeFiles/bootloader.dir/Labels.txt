@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/mg433/Projects/MG433/C/Arduino/build/CMakeFiles/bootloader
+/home/mg433/Projects/MG433/C/Arduino/build/CMakeFiles/bootloader.rule
+/home/mg433/Projects/MG433/C/Arduino/build/CMakeFiles/bootloader-complete.rule
+/home/mg433/Projects/MG433/C/Arduino/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/mg433/Projects/MG433/C/Arduino/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/mg433/Projects/MG433/C/Arduino/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/mg433/Projects/MG433/C/Arduino/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/mg433/Projects/MG433/C/Arduino/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/mg433/Projects/MG433/C/Arduino/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/mg433/Projects/MG433/C/Arduino/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
